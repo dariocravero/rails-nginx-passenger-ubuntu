@@ -74,9 +74,9 @@ Ruby Enterprise Edition
 
 Check for newer version at http://www.rubyenterpriseedition.com/download.html
 
-Install package required by ruby enterprise, C compiler, Zlib development headers, OpenSSL development headers, GNU Readline development headers
+Install package required by ruby enterprise, C compiler, Zlib development headers, OpenSSL development headers, GNU Readline development headers, Curl development with SSL support headers
 
-    sudo apt-get install build-essential zlib1g-dev libssl-dev libreadline5-dev
+    sudo apt-get install build-essential zlib1g-dev libssl-dev libreadline5-dev libcurl4-openssl-dev
 
 Download and install Ruby Enterprise Edition
 
